@@ -10,7 +10,7 @@ Chiagoziem Ede
 * [Twitter](https://twitter.com/elotachukwu)
 
 ## Live Demo
-[See live demo here!](https://raw.githack.com/Elotachukwu/projects/main/JSON/index.html)
+[See live demo here!](https://upbeat-thompson-7b3282.netlify.app/)
 
 ## Visual
 ![This is a screenshot of the work.](./assets/images/Capture-the-ethiopian-story.png "This is a screenshot of the work.")
