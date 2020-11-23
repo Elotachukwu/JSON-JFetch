@@ -1,0 +1,72 @@
+[
+  {
+    "UserId": 1,
+    "Id": 1,
+    "heading": "Lorem Ipsum",
+    "author": "Grace Mba",
+    "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero officia natus, excepturi exercitationem nostrum voluptas earum aliquam dicta animi? Quo obcaecati quam doloremque esse nihil distinctio corrupti reprehenderit eius vel accusamus quisquam sit officia, dolorem velit tempora commodi suscipit, ut culpa quae voluptatum ipsa quos?"
+  },
+  {
+    "UserId": 1,
+    "Id": 2,
+    "heading": "Ipsa Quibusdam Asperiores",
+    "author": "Esther Davies",
+    "body": "Ipsa quibusdam asperiores eius perferendis commodi? Obcaecati tenetur at, aspernatur quos cumque numquam voluptatum laborum deleniti velit ad voluptate sunt?"
+  },
+  {
+    "UserId": 1,
+    "Id": 3,
+    "heading": "Neque Laboriosam Aut Illum",
+    "author": "Oluwafunmilola Olanrewaju",
+    "body": "Neque laboriosam aut illum, voluptatibus perferendis saepe atque sint voluptate et itaque doloribus, id eaque aperiam tenetur illo odit numquam consequuntur molestiae!"
+  },
+  {
+    "UserId": 1,
+    "Id": 4,
+    "heading": "Maxime Architecto",
+    "author": "Olufunke Owoseni",
+    "body": "Eius maxime architecto earum asperiores quis ullam, quas deleniti ad ea, aperiam accusamus!"
+  },
+  {
+    "UserId": 1,
+    "Id": 5,
+    "heading": "Neque Laboriosam",
+    "author": "Favour Mary-Jane",
+    "body": "Neque laboriosam aut illum, voluptatibus perferendis saepe atque sint voluptate et itaque doloribus, id eaque aperiam tenetur illo odit numquam consequuntur molestiae! Ipsa quibusdam asperiores eius perferendis commodi? Obcaecati tenetur at, aspernatur quos cumque numquam voluptatum laborum deleniti velit ad voluptate sunt?"
+  },
+  {
+    "UserId": 1,
+    "Id": 6,
+    "heading": "Quo Obcaecati Quam Doloremque",
+    "author": "Ezekiel Ogunniwa",
+    "body": "Quo obcaecati quam doloremque esse nihil distinctio corrupti reprehenderit eius vel accusamus quisquam sit officia, dolorem velit tempora commodi suscipit, ut culpa quae voluptatum ipsa quos?"
+  },
+  {
+    "UserId": 1,
+    "Id": 7,
+    "heading": "Quo Obcaecati",
+    "author": "Deborah Kadwama",
+    "body": "Quo obcaecati quam doloremque esse nihil distinctio corrupti reprehenderit eius vel accusamus quisquam sit officia, dolorem velit tempora commodi suscipit, ut culpa quae voluptatum ipsa quos? Neque laboriosam aut illum, voluptatibus perferendis saepe atque sint voluptate et itaque doloribus, id eaque aperiam tenetur illo odit numquam consequuntur molestiae!"
+  },
+  {
+    "UserId": 1,
+    "Id": 8,
+    "heading": "Lorem Ipsum",
+    "author": "Umar Musa",
+    "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia maiores, nisi natus rerum maxime facere qui blanditiis odit ducimus explicabo deserunt illum debitis quae cum. Temporibus quaerat in laborum similique!"
+  },
+  {
+    "UserId": 1,
+    "Id": 9,
+    "heading": "Obcaecati Tenetur",
+    "author": "Sadiq Abubakar",
+    "body": "Obcaecati tenetur at, aspernatur quos cumque numquam voluptatum laborum deleniti velit ad voluptate sunt? Eius maxime architecto earum asperiores quis ullam, quas deleniti ad ea, aperiam accusamus!"
+  },
+  {
+    "UserId": 1,
+    "Id": 10,
+    "heading": "Mollitia Maiores",
+    "author": "Auwal Isah",
+    "body": "Mollitia maiores, nisi natus rerum maxime facere qui blanditiis odit ducimus explicabo deserunt illum debitis quae cum. Temporibus quaerat in laborum similique!"
+  }
+]
